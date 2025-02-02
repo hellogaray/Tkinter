@@ -5,7 +5,7 @@ from tkinter import ttk
 # window
 window = tk.Tk()
 window.geometry('600x500')
-window.title('Event Binding')
+window.title('Tables')
 
 # data
 first_names =['Bob', 'Maria', 'Alex', 'James', 'Susan', 'Henry', 'Lisa', 'Anna', 'Lisa']
